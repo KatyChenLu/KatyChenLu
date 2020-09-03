@@ -15,7 +15,6 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pengMaster&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ```javascript
 const 璐璐 = {
