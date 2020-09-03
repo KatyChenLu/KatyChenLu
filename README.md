@@ -1,9 +1,6 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=KatyChenLu&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
-  
-  
   
   
   <h2> Hi, there lulu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -29,6 +26,9 @@ const 璐璐 = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
+![](https://github-readme-stats.vercel.app/api?username=KatyChenLu&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
+  
+  
 ---
 
 ⭐️ From [@lulu](https://github.com/KatyChenLu)
