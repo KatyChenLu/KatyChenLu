@@ -3,9 +3,8 @@
 <p><em>Graduated in Software Enginner from <a href="http://www.henu.edu.cn/">HenanUniversity</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img align='right' src="https://media.giphy.com/media/l46CCMYDo6GEaylaM/giphy.gif" width= "50"></br>Software Engineer at <a href="http://www.cpgroup.cn/">cpgroup</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-
-[![GitHub ChenLu](https://img.shields.io/github/followers/KatyChenLu?label=follow&style=social)](https://github.com/KatyChenLu) ![](https://img.shields.io/badge/dynamic/json?color=da282a&label=%E7%92%90%E7%92%90%E7%9A%84%E5%BE%AE%E5%8D%9A%E7%B2%89%E4%B8%9D&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3191711317&logo=weibo
-)                                                     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img  src="https://media.giphy.com/media/l46CCMYDo6GEaylaM/giphy.gif" width= "30">  
+![](https://img.shields.io/badge/dynamic/json?color=black&label=lulu%27s%20GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DKatyChenLu&logo=github)
+![](https://img.shields.io/badge/dynamic/json?color=da282a&label=lulu%27s%20Weibo%20Fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3191711317%26logo%3Dweibo&logo=weibo)                                                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img  src="https://media.giphy.com/media/l46CCMYDo6GEaylaM/giphy.gif" width= "30">  
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img  src="https://media.giphy.com/media/l46CCMYDo6GEaylaM/giphy.gif" width= "40">
