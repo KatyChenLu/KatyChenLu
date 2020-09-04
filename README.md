@@ -8,7 +8,7 @@
 <p><em>Software Enginner at <a href="http://www.henu.edu.cn/">HenanUniversity</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">正大</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/KatyChenLu?label=follow&style=social)](https://github.com/KatyChenLu)
+[![GitHub ChenLu](https://img.shields.io/github/followers/KatyChenLu?label=follow&style=social)](https://github.com/KatyChenLu)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
