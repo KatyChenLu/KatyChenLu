@@ -1,6 +1,6 @@
 <h2> Hi, there lulu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.henu.edu.cn/">HenanUniversity</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img align='right' src="https://media.giphy.com/media/l46CCMYDo6GEaylaM/giphy.gif" width= "50"></br>Software Engineer at <a href="http://www.cpgroup.cn/">cpgroup</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Graduated in Software Enginner from <a href="http://www.henu.edu.cn/">HenanUniversity</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img align='right' src="https://media.giphy.com/media/l46CCMYDo6GEaylaM/giphy.gif" width= "50"></br>Software Engineer at <a href="http://www.cpgroup.cn/">cpgroup</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 
@@ -12,7 +12,7 @@
 const 璐璐 = {
       working：  🔭  shanghai
       learning： 🌱  vue
-      Ask：      💬  me about wxApp
+      asking：   💬  me about wxApp
       reach：    📫  Katychn@163.com
       saying：   😄  being HAPPY!
 }
